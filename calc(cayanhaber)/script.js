@@ -135,5 +135,4 @@ deleteButton.addEventListener("click", (button) => {
   calculator.updateDisplay();
 });
 
-
-//dev*everydevinworld=blur => bigbrother in the galaxy//
+/*! dev*everydevinworld=blur => bigbrother in the galaxy*/
